@@ -1,2 +1,4 @@
-# -workspace-github.com-pwharton1-bookbot
-My 1st project the bookbot.
+# bookbot
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
+
